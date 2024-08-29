@@ -1,2 +1,2 @@
 # airline-customers-review
-Customer review analysis using Topic modelling and LLMs
+Airline customer review analysis using Topic modelling and LLMs
